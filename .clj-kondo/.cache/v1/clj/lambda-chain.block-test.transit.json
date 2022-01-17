@@ -1,1 +1,0 @@
-["^ ","~$create-a-block-test",["^ ","~:row",6,"~:col",1,"~:fixed-arities",["~#set",[0]],"~:name","^0","~:ns","~$lambda-chain.block-test","~:top-ns","^7"],"~$mining-a-block-test",["^ ","^1",21,"^2",1,"^3",["^4",[0]],"^5","^9","^6","^7","^8","^7"],"~:filename","/home/nomad/learning/clojure/lambda-chain/test/lambda_chain/block_test.clj"]
